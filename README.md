@@ -27,14 +27,14 @@ To analyze the TMDB 5000 Movie Dataset from a product and business perspective, 
 ### 👁️ View Results Instantly (No setup required)
 * **GitHub Viewer:** Simply open `analysis.ipynb` directly in this GitHub repository to view all executed code, interactive outputs, and charts without running anything.
 * **Open in Google Colab:** Click the badge below to run and explore the notebook instantly in your browser:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/analysis.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lxndrdnlv/tmdb-movie-eda/blob/main/analysis.ipynb)
 
 ---
 
 ### 💻 Run Locally
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/lxndrdnlv/tmdb-movie-eda.git
    cd YOUR_REPO_NAME
 2. **Download Dataset:**
    Get tmdb_5000_movies.csv from Kaggle TMDB 5000 Movie Dataset and place it in the project root folder.
